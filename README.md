@@ -13,7 +13,7 @@ All your files will be interpreted/compiled on Ubuntu 14.04 LTS using python3 (v
 The console
 
 # **Installation**
-- Clone this repository: git clone "https://github.com/alexaorrico/AirBnB_clone.git"
+- Clone this repository: git clone 
 - Access AirBnb directory: cd AirBnB_clone
 - Run hbnb(interactively): ./console and enter command
 - Run hbnb(non-interactively): echo "<command>" | ./console.py
